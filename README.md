@@ -1,4 +1,5 @@
 # Day12Assignment
+
 NotesWall is a simple note taking app that allows users to create and save notes. 
 # Hosted Link:
 https://praveshjangid2001.github.io/Day12Assignment/

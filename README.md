@@ -1,7 +1,7 @@
 # NotesWall
 NotesWall is a simple note taking app that allows users to create and save notes. 
 # Hosted Link:
-https://ronaksharma57.github.io/NotesWall/
+https://praveshjangid2001.github.io/Day12Assignment/
 
 ## Prerequisites
 
